@@ -1,0 +1,4 @@
+C:\Temp\Cloud-PaaS-Hosting\Jewels.Models\bin\Debug\Jewels.Models.dll
+C:\Temp\Cloud-PaaS-Hosting\Jewels.Models\bin\Debug\Jewels.Models.pdb
+C:\Temp\Cloud-PaaS-Hosting\Jewels.Models\obj\Debug\Jewels.Models.dll
+C:\Temp\Cloud-PaaS-Hosting\Jewels.Models\obj\Debug\Jewels.Models.pdb

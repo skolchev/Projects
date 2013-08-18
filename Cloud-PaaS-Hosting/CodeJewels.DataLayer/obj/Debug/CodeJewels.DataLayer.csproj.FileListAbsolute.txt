@@ -1,0 +1,10 @@
+C:\Temp\Cloud-PaaS-Hosting\CodeJewels.DataLayer\bin\Debug\CodeJewels.DataLayer.dll.config
+C:\Temp\Cloud-PaaS-Hosting\CodeJewels.DataLayer\bin\Debug\CodeJewels.DataLayer.dll
+C:\Temp\Cloud-PaaS-Hosting\CodeJewels.DataLayer\bin\Debug\CodeJewels.DataLayer.pdb
+C:\Temp\Cloud-PaaS-Hosting\CodeJewels.DataLayer\bin\Debug\EntityFramework.dll
+C:\Temp\Cloud-PaaS-Hosting\CodeJewels.DataLayer\bin\Debug\Jewels.Models.dll
+C:\Temp\Cloud-PaaS-Hosting\CodeJewels.DataLayer\bin\Debug\Jewels.Models.pdb
+C:\Temp\Cloud-PaaS-Hosting\CodeJewels.DataLayer\bin\Debug\EntityFramework.xml
+C:\Temp\Cloud-PaaS-Hosting\CodeJewels.DataLayer\obj\Debug\CodeJewels.DataLayer.csprojResolveAssemblyReference.cache
+C:\Temp\Cloud-PaaS-Hosting\CodeJewels.DataLayer\obj\Debug\CodeJewels.DataLayer.dll
+C:\Temp\Cloud-PaaS-Hosting\CodeJewels.DataLayer\obj\Debug\CodeJewels.DataLayer.pdb
