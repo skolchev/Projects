@@ -1,0 +1,37 @@
+﻿body {
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+
+/* styles for removing the background from form */
+.no-color {
+  background-color: white;
+  border-style:none;
+}
+
+.top-users-data {
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+.top-users-posts-count {
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+.span3 {
+    padding-top: 20px;
+}
+
+.forum-comment {
+    padding-top: 15px;
+}
+
+#forum-comments-header {
+    font-size: 20px;
+}
+
+.image-form-uplad-img {
+    width: 140px;
+    height: 140px;
+}

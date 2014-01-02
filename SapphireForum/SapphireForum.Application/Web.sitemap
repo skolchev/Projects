@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode title="Home" description="Sapphire Forum Home Page"  url="~/Home">
+    <siteMapNode title="Create Post"  description="Create new post" url="~/CreatePost" />
+    <siteMapNode title="Posts" description="All Posts" url="~/Posts" />
+    <siteMapNode title="Categories"  description="All Categories" url="~/Categories" />
+    <siteMapNode title="Tags"  description="All Tags" url="~/Tags" />
+    <siteMapNode title="Users"  description="All Users" url="~/Users" />
+    <siteMapNode title="Admin" roles="Admin" >
+      <siteMapNode title="Create Category" description="Creates new category" url="~/Admin/CreateCategory" />
+    </siteMapNode>
+    <siteMapNode title="Register"  description="Register new user" url="~/Account/Register" />
+    <siteMapNode title="Login"  description="Login" url="~/Account/Login" />
+    <siteMapNode title="Manage account"  description="Manage your account" url="~/Account/Manage" />
+    <siteMapNode title="Logout"  description="Logout" url="~/Account/Logout" />
+  </siteMapNode>
+</siteMap>
