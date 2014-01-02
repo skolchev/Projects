@@ -1,0 +1,5 @@
+Sofia -> Plovdiv, 01.05.2013, 07:00, t01, 15.99
+Plovdiv -> Varna, 01.05.2013, 12:00, train02, 15.00
+Plovdiv -> Burgas, 01.05.2013, 12:00, train03, 15.00
+Plovdiv -> Sofia, 01.05.2013, 12:00, t01, 15.99
+Sofia -> Lom, 11.11.2013, 07:00, train04, 12.00

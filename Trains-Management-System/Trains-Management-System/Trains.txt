@@ -1,0 +1,4 @@
+t01, 100, There can be no better train!
+train02, 90, Riding on this one will be quite fun.
+train03, 110, Plenty of space in the wagons...if you are a hobbit
+train04, 70, We have a fourth train?
