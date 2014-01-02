@@ -1,0 +1,5 @@
+C:\Users\Stefan\Documents\GitHub\TeamDexter\ImageGalleryProject\Gallery.WebClient\bin\Gallery.WebClient.dll
+C:\Users\Stefan\Documents\GitHub\TeamDexter\ImageGalleryProject\Gallery.WebClient\bin\Gallery.WebClient.pdb
+C:\Users\Stefan\Documents\GitHub\TeamDexter\ImageGalleryProject\Gallery.WebClient\obj\Debug\Gallery.WebClient.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\GitHub\TeamDexter\ImageGalleryProject\Gallery.WebClient\obj\Debug\Gallery.WebClient.dll
+C:\Users\Stefan\Documents\GitHub\TeamDexter\ImageGalleryProject\Gallery.WebClient\obj\Debug\Gallery.WebClient.pdb

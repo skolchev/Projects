@@ -1,0 +1,27 @@
+﻿body {
+}
+
+.btn{
+    display: block;
+}
+
+#forms {
+    display: inline-block;
+    margin: 0 auto;
+}
+
+#wrapper {
+    max-width: 50%;
+    margin-left: 15%;
+}
+
+#menu{
+    display:inline-block;
+}
+
+#imageHolder{
+    margin-top:50px;
+    float:right;
+    width:80%;
+
+}

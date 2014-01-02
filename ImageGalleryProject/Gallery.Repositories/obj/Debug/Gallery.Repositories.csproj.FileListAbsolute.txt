@@ -1,0 +1,12 @@
+C:\Users\Stefan\Documents\GitHub\TeamDexter\ImageGalleryProject\Gallery.Repositories\bin\Debug\Gallery.Repositories.dll.config
+C:\Users\Stefan\Documents\GitHub\TeamDexter\ImageGalleryProject\Gallery.Repositories\bin\Debug\Gallery.Repositories.dll
+C:\Users\Stefan\Documents\GitHub\TeamDexter\ImageGalleryProject\Gallery.Repositories\bin\Debug\Gallery.Repositories.pdb
+C:\Users\Stefan\Documents\GitHub\TeamDexter\ImageGalleryProject\Gallery.Repositories\bin\Debug\EntityFramework.dll
+C:\Users\Stefan\Documents\GitHub\TeamDexter\ImageGalleryProject\Gallery.Repositories\bin\Debug\Gallery.Data.dll
+C:\Users\Stefan\Documents\GitHub\TeamDexter\ImageGalleryProject\Gallery.Repositories\bin\Debug\Gallery.Models.dll
+C:\Users\Stefan\Documents\GitHub\TeamDexter\ImageGalleryProject\Gallery.Repositories\bin\Debug\Gallery.Data.pdb
+C:\Users\Stefan\Documents\GitHub\TeamDexter\ImageGalleryProject\Gallery.Repositories\bin\Debug\Gallery.Models.pdb
+C:\Users\Stefan\Documents\GitHub\TeamDexter\ImageGalleryProject\Gallery.Repositories\bin\Debug\EntityFramework.xml
+C:\Users\Stefan\Documents\GitHub\TeamDexter\ImageGalleryProject\Gallery.Repositories\obj\Debug\Gallery.Repositories.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\GitHub\TeamDexter\ImageGalleryProject\Gallery.Repositories\obj\Debug\Gallery.Repositories.dll
+C:\Users\Stefan\Documents\GitHub\TeamDexter\ImageGalleryProject\Gallery.Repositories\obj\Debug\Gallery.Repositories.pdb

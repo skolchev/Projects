@@ -1,0 +1,72 @@
+*{
+	margin: 0;
+	padding:0;
+}
+
+ img {
+	width: 200px;	
+	padding-left: 5px;
+	padding-top: 5px;
+}
+
+
+
+
+#zoom img {
+	width: 500px;
+	position: relative;
+	left: 400px;
+	
+	}
+
+
+.content{
+	/*border: 1px solid #000;*/
+	width: 1050px;
+	height: 100%;
+	display: inline-block;
+}
+#navmenu {
+	/*border: 1px solid #f00;*/
+	width: 150px;
+	height: 100%;
+	float: left;
+	display: inline-block;
+}
+#app {
+	width: 1250px;
+	display: inline-block;
+	/*border: 1px solid #00f;*/
+	
+}
+#CreateFolder,#FolderName {
+	display: none;
+}
+
+.folder {
+	display: inline-block;
+	
+	text-align: center;
+	word-wrap:break-word;
+	padding-left: 5px;
+}
+.hidden {
+	display: none;
+}
+.selected {
+	display: inline-block;
+}
+ .ui-menu { width: 150px; }
+ .folder>.folderContent{
+	border: 1px solid #000;
+	width: 100%;
+	background: #0f0;
+	
+}
+div {
+	display: inline-block;
+}
+#notifications {
+	background-color: #0ff;
+	display: block;
+}

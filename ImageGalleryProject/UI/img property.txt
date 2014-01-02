@@ -1,0 +1,4 @@
+size, 
+title,
+date created
+date modified?

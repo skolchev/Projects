@@ -1,0 +1,4 @@
+C:\Users\Stefan\Documents\GitHub\TeamDexter\ImageGalleryProject\Gallery.Models\bin\Debug\Gallery.Models.dll
+C:\Users\Stefan\Documents\GitHub\TeamDexter\ImageGalleryProject\Gallery.Models\bin\Debug\Gallery.Models.pdb
+C:\Users\Stefan\Documents\GitHub\TeamDexter\ImageGalleryProject\Gallery.Models\obj\Debug\Gallery.Models.dll
+C:\Users\Stefan\Documents\GitHub\TeamDexter\ImageGalleryProject\Gallery.Models\obj\Debug\Gallery.Models.pdb

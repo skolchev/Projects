@@ -1,0 +1,10 @@
+C:\Users\Stefan\Documents\GitHub\TeamDexter\ImageGalleryProject\Gallery.Data\bin\Debug\Gallery.Data.dll.config
+C:\Users\Stefan\Documents\GitHub\TeamDexter\ImageGalleryProject\Gallery.Data\bin\Debug\Gallery.Data.dll
+C:\Users\Stefan\Documents\GitHub\TeamDexter\ImageGalleryProject\Gallery.Data\bin\Debug\Gallery.Data.pdb
+C:\Users\Stefan\Documents\GitHub\TeamDexter\ImageGalleryProject\Gallery.Data\bin\Debug\EntityFramework.dll
+C:\Users\Stefan\Documents\GitHub\TeamDexter\ImageGalleryProject\Gallery.Data\bin\Debug\Gallery.Models.dll
+C:\Users\Stefan\Documents\GitHub\TeamDexter\ImageGalleryProject\Gallery.Data\bin\Debug\Gallery.Models.pdb
+C:\Users\Stefan\Documents\GitHub\TeamDexter\ImageGalleryProject\Gallery.Data\bin\Debug\EntityFramework.xml
+C:\Users\Stefan\Documents\GitHub\TeamDexter\ImageGalleryProject\Gallery.Data\obj\Debug\Gallery.Data.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\GitHub\TeamDexter\ImageGalleryProject\Gallery.Data\obj\Debug\Gallery.Data.dll
+C:\Users\Stefan\Documents\GitHub\TeamDexter\ImageGalleryProject\Gallery.Data\obj\Debug\Gallery.Data.pdb

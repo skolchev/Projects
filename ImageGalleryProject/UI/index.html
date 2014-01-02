@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	<meta charset="UTF-8" />
+        <title>
+          IMAGE GALLERY
+        </title>
+		 <script src="jquery-1.10.2.js"></script>
+         <script src="jquery-ui-1.10.3.custom.js"></script>
+         <link rel="stylesheet" type="text/css" href="style.css">
+         <link rel="stylesheet" type="text/css" href="jquery-ui-1.10.3.custom.css">
+    </head>
+    <body>
+        <button id="AddFolder">Add folder</button>
+        <input type="text" id ="FolderName">
+        <button id="CreateFolder"> Create folder</button>
+        <button id="AddImage"> Add Image</button>
+        <div id="notifications">NOTIFICATIONS</div>
+      <div id="zoom">
+           
+        </div>
+
+        <div id ="app">
+            <div id = "navmenu">
+            MENU
+            <ul id = "menu">
+                <li>
+                    <a href="#">ELEMENT</a>
+                     <ul id = "menu">
+                <li>
+                    <a href="#">ELEMENT</a>
+                </li>
+                  <li>
+                    <a href="#">ELEMENT</a>
+                </li>
+
+            </ul>
+                </li>
+                  <li>
+                    <a href="#">ELEMENT</a>
+                </li>
+
+            </ul>
+            </div>
+
+          	<div class ="content">
+                <div class="folder"><img src="folder.png"></div>
+                <img src="1.jpg">
+                <img src="2.jpg">
+                <img src="3.jpg">
+                <img src="4.jpg">
+                <img src="1.jpg">
+
+                <img src="1.jpg">
+                <img src="2.jpg">
+                <img src="3.jpg">
+                <img src="4.jpg">
+                <img src="1.jpg">
+
+               
+            </div>
+        </div>
+    <script src="script.js"></script>
+              <script>
+$(function() {
+$( "#menu" ).menu();
+});
+</script>
+
+    </body>
+</html>
